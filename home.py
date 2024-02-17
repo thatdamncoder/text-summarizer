@@ -1,10 +1,11 @@
 import streamlit as st
 import joblib
 import yake
+import os
 from transformers import pipeline
 from newsapi import NewsApiClient
 
-
+newsapi = os.getenv("API_KEY")
 
 st.set_page_config(page_title="TextSumm",layout="wide")
 
