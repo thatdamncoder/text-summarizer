@@ -5,7 +5,9 @@ import os
 from transformers import pipeline
 from newsapi import NewsApiClient
 
-newsapi = os.getenv("API_KEY")
+api_key = os.getenv("API_KEY")
+
+newsapi = NewsApiClient(api_key=api_key)
 
 st.set_page_config(page_title="TextSumm",layout="wide")
 
