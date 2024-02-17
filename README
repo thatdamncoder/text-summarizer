@@ -1,6 +1,6 @@
 #Text Summarizer
 
-## Overview
+##Overview
 
 This project provides a text summarization tool that utilizes the Transformer-based summarizer for condensing lengthy texts into concise summaries. Additionally, it incorporates the YAKE algorithm for keyword extraction and a Naive Bayes classifier for categorizing articles into topics such as business, sports, politics, etc.
 
