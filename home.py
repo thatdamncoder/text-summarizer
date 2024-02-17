@@ -4,7 +4,7 @@ import yake
 from transformers import pipeline
 from newsapi import NewsApiClient
 
-newsapi = NewsApiClient(api_key='8d97576229564d638631c24d6c31f5b6')
+
 
 st.set_page_config(page_title="TextSumm",layout="wide")
 
