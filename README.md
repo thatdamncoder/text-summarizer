@@ -49,7 +49,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
   - [Hugging Face Transformers](https://github.com/huggingface/transformers) for text summarization.
   - [YAKE](https://github.com/LIAAD/yake) for keyword extraction.
   - [Streamlit](https://github.com/streamlit/streamlit) for the web interface.
-  - [DataSet] (https://www.kaggle.com/datasets/rmisra/news-category-dataset/data) for training the classifier model.
+  - [DataSet](https://www.kaggle.com/datasets/rmisra/news-category-dataset/data) for training the classifier model.
     1.Misra, Rishabh. "News Category Dataset." arXiv preprint arXiv:2209.11429 (2022).
     2.Misra, Rishabh and Jigyasa Grover. "Sculpting Data for ML: The first act of Machine Learning." ISBN 9798585463570 (2021)..
 
